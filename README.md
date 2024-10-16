@@ -3,7 +3,7 @@
 ### 简介
 projects &amp; tasks management   
    
-毕设项目：**多任务协同管理平台**
+毕设项目：**项目管理平台**
    
 ### 功能
 项目与团队进行一对一的关联； 
@@ -21,8 +21,7 @@ projects &amp; tasks management
 **Vue**：前端主要框架  
   
 **Element-UI**：前端组件库  
-  
-**Session**：浏览器用于存储用户登录状态  
+   
 ### 后端   
 **SpringBoot**：后端主要框架  
   
